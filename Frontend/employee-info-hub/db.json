@@ -1,0 +1,67 @@
+{"EmployeeInfo": [{
+  "employeeName":"Chandralekha Podili",
+  "employeeID": 770060,
+  "email":"chandralekhapodili@tcs.com",
+  "department": "IT",
+  "role": "System Administrator",
+  "reportingTo":776651,
+  "employmentStatus":"Full time",
+  "salary":350000,
+  "image":"https://t3.ftcdn.net/jpg/06/17/13/26/360_F_617132669_YptvM7fIuczaUbYYpMe3VTLimwZwzlWf.jpg"
+},
+{
+  "employeeName":"Jahnavi Pentyala",
+  "employeeID": 764475,
+  "email":"jahnavipentyala@tcs.com",
+  "department": "HR",
+  "role": "HR Consultant",
+  "reportingTo":776652,
+  "employmentStatus":"Contract",
+  "salary":300000,
+  "image":"https://t3.ftcdn.net/jpg/06/17/13/26/360_F_617132669_YptvM7fIuczaUbYYpMe3VTLimwZwzlWf.jpg"
+},
+{
+  "employeeName":"Prakash Moka",
+  "employeeID": 834035,
+  "email":"prakashmoka@tcs.com",
+  "department": "IT",
+  "role": "Senior Software Engineer",
+  "reportingTo":776653,
+  "employmentStatus":"Full-Time",
+  "salary":550000,
+  "image":"https://t4.ftcdn.net/jpg/06/43/68/65/240_F_643686570_jlFaFaXfYNQKfvdnOAAYbY9E4AkUPWDb.jpg"
+},
+{
+  "employeeName":"Nikhil Karri",
+  "employeeID": 834037,
+  "email":"nikhilkarri@tcs.com",
+  "department": "IT",
+  "role": "Intern",
+  "reportingTo":770065,
+  "employmentStatus":"Part-Time",
+  "salary":200000,
+  "image":"https://t4.ftcdn.net/jpg/06/43/68/65/240_F_643686570_jlFaFaXfYNQKfvdnOAAYbY9E4AkUPWDb.jpg"
+},
+{
+  "employeeName":"Srujana Chinolla",
+  "employeeID": 776895,
+  "email":"srujanachinolla@tcs.com",
+  "department": "Finance",
+  "role": "Accountant",
+  "reportingTo":770065,
+  "employmentStatus":"Full time",
+  "salary":350000,
+  "image":"https://t3.ftcdn.net/jpg/06/17/13/26/360_F_617132669_YptvM7fIuczaUbYYpMe3VTLimwZwzlWf.jpg"
+},
+{
+  "employeeName":"Yaswanth Kommuru",
+  "employeeID": 789247,
+  "email":"yaswanthkommuru@tcs.com",
+  "department": "Marketing",
+  "role": "Socialmedia Coordinator",
+  "reportingTo":770068,
+  "employmentStatus":"Contract",
+  "salary":450000,
+  "image":"https://t4.ftcdn.net/jpg/06/43/68/65/240_F_643686570_jlFaFaXfYNQKfvdnOAAYbY9E4AkUPWDb.jpg"
+}
+]}
